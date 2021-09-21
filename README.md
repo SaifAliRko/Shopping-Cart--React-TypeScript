@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live App Below :point_down:
+https://shopping-cart-react-typescript.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
